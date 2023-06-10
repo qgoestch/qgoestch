@@ -9,9 +9,9 @@ profile:
   image: prof_pic.png
   image_circular: True # crops the image to make it circular
   address: >
-    <p>PhD student in acoustics</p>
-    <p>UMRAE laboratory</p>
-
+    <p>PhD student</p>
+    <p>Environmental acoustics<p>
+    <p>Numerical methods<p>
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
