@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. 
+subtitle: <a href='https://www.umrae.fr/en/'>Affiliations</a>. 
 
 profile:
   align: right

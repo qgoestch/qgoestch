@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
+title: World tour hitchhiking
+description: 
+img: assets/img/logo_atwe4.png
+redirect: https://lemondeapetitpas.wordpress.com/
 importance: 3
-category: work
+category: fun
 ---
 
 Every project has a beautiful feature showcase page.

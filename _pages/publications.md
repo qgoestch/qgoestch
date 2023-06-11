@@ -2,8 +2,8 @@
 layout: page
 permalink: /publications/
 title: publications
-description: List of my publications in academic journals, chronological order.
-years: [2018, 2022, 2023]
+description: List of my publications in academic journals, reversed chronological order.
+years: [2023, 2022, 2018]
 nav: true
 nav_order: 1
 ---

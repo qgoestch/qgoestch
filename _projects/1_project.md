@@ -1,23 +1,19 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
+title: Modelisation of sound propagation in generated forest meshes
+description: Project related to my PhD thesis
+img: assets/img/pfield.gif
 importance: 1
 category: work
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+Using FreeCAD API, open3D Python library and OpenCL multi device implementation, the sound propagation in numerical forest can be modeled. 
 
     ---
     layout: page
     title: project
     description: a project with a background image
-    img: /assets/img/12.jpg
+    img: /assets/img/pfield.gif
     ---
 
 <div class="row">
