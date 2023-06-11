@@ -13,7 +13,7 @@
   contents:
     - title: PhD
       institution: Le Mans University, Le Mans, France
-      year: 2020 - 2023 (ongoing)
+      year: 2023 (ongoing)
       description:
         - Acoustic propagation in forest environments. Numerical study for anthropogenic and ecological applications
         - title: Short description
@@ -35,6 +35,12 @@
         - 3rd year - Pre-doctoral research year in a foreign country (TU/e, Eindhoven, cf. Experience).
         - 2nd year - Civil engineering master's degree. Fundamentals of mechanical engineering, including continuum mechanics, fluid mechanics, waves, vibrations, with a strong emphasis on numerical methods.
         - 1st year - Multidisciplinary formation in order to choose between the three engineering departments. Centered on the applied sciences in physics and engineering for research and teaching. (Equivalent to a third-year bachelor's degree)
+  
+    - title: Preparatory classes for engineering colleges
+      institution: Eugène Livet HighSchool
+      year: 2015
+      description: 
+        - Two years of intensive courses on fundamentals of physics and technology to prepare Grandes Ecoles competitive entrance exams.
     
 
 - title: Experience
@@ -48,31 +54,55 @@
         - Basics of computer architecture. Teaching to first year students.
         - Academic methodologies and techniques. Teaching to first year students. 
 
-    - title: Researcher apprentice
-      institution: Technical University of Eindhoven TU/e, Eindhoven, Netherlands.
-      year: 1933
+    - title: Trainee researcher  
+      institution: Joint Research Unit in Environmental Acoustics (UMRAE), Strasbourg, France
+      year: 2020
       description:
-        - Description 1.
-        - Description 2.
+        - Numerical modeling of acoustic propagation over a forest floor using the TLM approach.
 
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Trainee researcher  
+      institution: Technical University of Eindhoven TU/e, Eindhoven, Netherlands.
+      year: 2017-2018
+      description:
+        - Applicability of the diffusion equation method for acoustic simulations on 3D urban models.
+        - Development of a Matlab code to model sound energy density diffusion in irregular tetrahedral meshes. 
+
+    - title: Trainee engineer  
+      institution: CERN, the European Organization for Nuclear Research, Geneva, Switzerland.
+      year: 2017-2018
+      description:
+        - Modeling the noise impact of the LHC expansion (HL-LHC) with an engineering software. 
+
+- title: Special Skills
+  type: nested_list
+  contents: 
+    - title: Programming languages
+      items:
+        - Python
+        - C99 (OpenCL)
+        - Matlab
+        - Bash
+    - title: Documents rendering languages 
+      items:
+        - LaTex
+        - Markdown
+    - title: Softwares
+      items: 
+        - Solidworks
+        - FreeCAD
+        - Inkscape
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Acoustics
       items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Sound & biodiversity
+        - Disturbance noise effect on quiet areas
+    - title: Numerical modelization methods
       items:
-        - Description 1.
-        - Description 2.
+        - Time domain methods
+        - Meshing processes
 
 - title: Other Interests
   type: list
