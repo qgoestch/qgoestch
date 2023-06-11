@@ -2,7 +2,7 @@
 layout: page
 title: Haute Randonnée Pyrénéenne
 description: Hiking the crest of the pyrenees, from ocean to summit, then from sea to summit. 
-img:
+img: assets/img/hrp.jpg
 importance: 3
 category: fun
 ---

@@ -65,7 +65,7 @@
       year: 2017-2018
       description:
         - Applicability of the diffusion equation method for acoustic simulations on 3D urban models.
-        - Development of a Matlab code to model sound energy density diffusion in irregular tetrahedral meshes. 
+        - Development of a finite volume method Matlab code to model sound energy density diffusion in irregular tetrahedral meshes. 
 
     - title: Trainee engineer  
       institution: CERN, the European Organization for Nuclear Research, Geneva, Switzerland.
