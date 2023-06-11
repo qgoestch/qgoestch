@@ -19,4 +19,4 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Former student of [École Normale Supérieure Paris-Saclay](https://ens-paris-saclay.fr/) I am currently a PhD Candidate in Acoustics at [UMRAE](https://www.umrae.fr/)
+Former student of [École Normale Supérieure Paris-Saclay](https://ens-paris-saclay.fr/) I am currently a PhD Candidate in Acoustics at [UMRAE](https://www.umrae.fr/). Our joint research unit is hosted by two institutes: the [CEREMA - Strasbourg](https://www.cerema.fr/en) and the [Université Gustave Eiffel - Nantes Campus](https://www.univ-gustave-eiffel.fr/en/), working together on noise characterization and reduction of its environmental impact. 
