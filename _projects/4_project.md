@@ -7,5 +7,5 @@ importance: 3
 category: fun
 ---
 
-Two summers in a row, around 20 days of hiking on the [HRP](https://en.wikipedia.org/wiki/Haute_Randonn%C3%A9e_Pyr%C3%A9n%C3%A9enne)
+Two summers in a row, around 20 days (each summers) of hiking on the [HRP](https://en.wikipedia.org/wiki/Haute_Randonn%C3%A9e_Pyr%C3%A9n%C3%A9enne)
 
