@@ -18,8 +18,8 @@
         - Acoustic propagation in forest environments. Numerical study for anthropogenic and ecological applications.
         - title: Short description
           contents:
-            - Theoretical study on the Transmission Line Matrix Method for modelling long-range forest scenarios.
-            - Upddating, improving and maintaining a code architecture in Python and OpenCL (C99). 
+            - Theoretical study on the Transmission Line Matrix Method for modeling long-range forest scenarios.
+            - Updating, improving and maintaining a code architecture in Python and OpenCL (C99). 
             - Supervision of an intern from the computer science University Institute of Technology (IUT), Strasbourg (6 months internship).
 
     - title: Master's degree in physical acoustics
@@ -70,7 +70,7 @@
 
     - title: Trainee engineer  
       institution: CERN, the European Organization for Nuclear Research, Geneva, Switzerland.
-      year: 2017-2018
+      year: 2017
       description:
         - Modeling the noise impact of the LHC expansion (HL-LHC) with an engineering software. 
 
@@ -89,10 +89,11 @@
         - Markdown
     - title: Softwares
       items: 
-        - Solidworks
         - FreeCAD
-        - Inkscape
+        - Solidworks
         - Slurm Workload Manager 
+        - Git
+        - Inkscape
 
 - title: Academic Interests
   type: nested_list
