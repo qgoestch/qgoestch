@@ -13,7 +13,7 @@
   contents:
     - title: Ph.D. degree
       institution: Le Mans University, Le Mans, France.
-      year: 2023 (ongoing)
+      year: 2023
       description:
         - Acoustic propagation in forest environments. Time domain numerical methods toward bioacoustic applications.
         - title: Short description
@@ -49,6 +49,14 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Postdoctoral Scholar
+      institution: University of Washington, Seattle, USA
+      year: 2024 - ongoing
+      description: 
+        - Postdoctoral at the School of Oceanography.
+        - study the capabilities of distributed acoustic sensing (DAS) to record low frequency baleen whale vocalizations.
+        - Develop automated tools to detect and localize fin and blue whale calls with DAS.
+
     - title: Computer science teacher
       institution: Strasbourg University, Strasbourg, France.
       year: 2022 - 2023
