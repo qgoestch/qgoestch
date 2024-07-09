@@ -49,13 +49,13 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Postdoctoral Scholar
+    - title: Postdoctoral Researcher
       institution: University of Washington, Seattle, USA
       year: 2024 - ongoing
       description: 
-        - Postdoctoral at the School of Oceanography.
+        - Postdoctoral scolarship at the School of Oceanography.
         - study the capabilities of distributed acoustic sensing (DAS) to record low frequency baleen whale vocalizations.
-        - Develop automated tools to detect and localize fin and blue whale calls with DAS.
+        - Develop automated tools to detect and localize fin and blue whale calls with DAS. Contributing to the DAS4Whales open-source package.
 
     - title: Computer science teacher
       institution: Strasbourg University, Strasbourg, France.
@@ -83,6 +83,13 @@
       year: 2017
       description:
         - Modeling the noise impact of the LHC expansion (HL-LHC) with an engineering software. 
+
+
+- title: Awards and Grants
+  type: list
+  contents:
+    - Early Career Presenter Award in Computational Acoustics at the 186st ASA meeting, Ottawa, Canada.
+    - University of Washington eScience postdoctoral fellowship, Seattle, USA.
 
 - title: Special Skills
   type: nested_list
